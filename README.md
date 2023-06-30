@@ -1,5 +1,8 @@
 # django-template
 
+start project だけ実行してくれれば、あとはいつも通りの django で開発できます。
+docker 内で行いたい場合は、docker compose exec app bash でコンテナに入ってください。
+
 ### start project
 
 ```bash
